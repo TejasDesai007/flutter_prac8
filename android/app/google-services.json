@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "394401398680",
+    "project_id": "soloz-2139c",
+    "storage_bucket": "soloz-2139c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394401398680:android:462401a20e5b797770b5ed",
+        "android_client_info": {
+          "package_name": "com.example.dbconnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394401398680-iub1ug8tpu4r068aa5r1lk5797mup55j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCshe7-O9huJq5soG-3mWFlRrPxCjvopH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394401398680-iub1ug8tpu4r068aa5r1lk5797mup55j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394401398680:android:dc8732b67ff50d7370b5ed",
+        "android_client_info": {
+          "package_name": "com.example.soloz1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394401398680-iub1ug8tpu4r068aa5r1lk5797mup55j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCshe7-O9huJq5soG-3mWFlRrPxCjvopH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394401398680-iub1ug8tpu4r068aa5r1lk5797mup55j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
